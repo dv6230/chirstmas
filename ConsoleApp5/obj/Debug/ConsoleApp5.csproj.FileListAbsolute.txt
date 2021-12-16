@@ -5,3 +5,10 @@ D:\C# project\資策會\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.Ass
 D:\C# project\資策會\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
 D:\C# project\資策會\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
 D:\C# project\資策會\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\iii\Desktop\資策會\chirstmas\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\iii\Desktop\資策會\chirstmas\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\iii\Desktop\資策會\chirstmas\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\iii\Desktop\資策會\chirstmas\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\資策會\chirstmas\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\資策會\chirstmas\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\iii\Desktop\資策會\chirstmas\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

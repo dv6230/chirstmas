@@ -7,9 +7,12 @@ namespace ConsoleApp5
 
         static void Main(string[] args)
         {
-            //ChristmasTree t = new ChristmasTree();
+            //ChristmasTree tree1 = new ChristmasTree();
             //ShinyConsoleLine s = new ShinyConsoleLine();
-            MakeString ms = new MakeString();
+            //MakeString ms = new MakeString();
+            Tree2 tree2 = new Tree2();
+            //FontColorTest f = new FontColorTest();
+            Example e = new Example();
         }
 
     }

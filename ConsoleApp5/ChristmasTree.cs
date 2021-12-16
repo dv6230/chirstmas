@@ -9,7 +9,7 @@ namespace ConsoleApp5
         public bool shine = false;
         public int sleepTime = 150;
 
-        ConsoleColor defaultColor = ConsoleColor.Green;
+        ConsoleColor defaultColor = ConsoleColor.DarkGreen;
         ConsoleColor color2 = ConsoleColor.Yellow;
 
         Random random = new Random();
@@ -47,7 +47,7 @@ namespace ConsoleApp5
                     for (int k = 0; k < (height - 1); k++) { Console.Write("|"); }
                     Console.WriteLine();
                 }
-                Console.ForegroundColor = ConsoleColor.Green;
+                Console.ForegroundColor = defaultColor;
                 System.Threading.Thread.Sleep(sleepTime);               
                 Console.Clear();
             }
